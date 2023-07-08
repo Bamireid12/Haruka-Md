@@ -1,6 +1,6 @@
 {
-    "ownerNumber": ["2348119715215, 2348165086896, 917357304621,2348085178642@s.whatsapp.net"],
-    "ownerName": "kumkum",
+    "ownerNumber": ["2348152119668,2348085178642@s.whatsapp.net"],
+    "ownerName": "Bamireid",
     "instagram" : "https://instagram.com/dinuwa_lk._",
     "botName": "Sw∆n",
     "footer": "Sw∆n>>>>> _at your service_ ",
@@ -10,7 +10,7 @@
     "BotKey": "VdFlEL76",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
-    "autobio": false,
+    "autobio": true,
     "anticall": false,
     "autorespond": false,
     "autoblok212": false,
